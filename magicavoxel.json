@@ -1,8 +1,7 @@
 {
-    "version": "0.99.1",
-    "url": "http://192.241.207.218/uploads/MagicaVoxel-0.99.1-alpha-win64.zip",
-    "extract_dir": "MagicaVoxel-0.99.1-alpha-win64",
-    "hash": "SHA256:d2c7b2d5e86d8024d87fd7c48b747e59950715b3eae0918f09dd8e8c8371e8e1",
+    "version": "0.99.2",
+    "url": "http://192.241.207.218/uploads/MagicaVoxel-0.99.2-alpha-win64.zip",
+    "extract_dir": "MagicaVoxel-0.99.2-alpha-win64",
     "homepage": "https://ephtracy.github.io/",
     "shortcuts": [
         [

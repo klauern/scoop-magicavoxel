@@ -1,6 +1,7 @@
 {
     "version": "0.99.3",
     "url": "https://github.com/ephtracy/ephtracy.github.io/releases/download/v0.99.3/MagicaVoxel-0.99.3-alpha-win64.zip",
+    "hash": "sha256:ba26565ed2c48ca51fc684ef88c4d37bb7b8815cf06b9fdc40ff7cfc748523b7",
     "extract_dir": "MagicaVoxel-0.99.3-alpha-win64",
     "homepage": "https://ephtracy.github.io/",
     "shortcuts": [
